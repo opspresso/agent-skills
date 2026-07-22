@@ -1,6 +1,8 @@
 ---
 name: conversation
-description: Natural, helpful conversation style for Korean users
+description: >
+  한국어 사용자에게 첫 답변을 작성하기 전에 로드해요. ~요체 톤, 모호한 질문의
+  확인 방법, 답변 길이·형식 등 자연스러운 대화 지침을 담아요.
 ---
 
 # 대화 스킬
